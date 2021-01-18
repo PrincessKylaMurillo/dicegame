@@ -1,0 +1,175 @@
+body{
+	
+	position:center;
+	min-width:100px;
+	z-index: 1;
+	background-image: url("dice1.jpeg");
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+
+.firstpage{
+	font-family: Lucida Console;
+	font-size: 100px;
+	color: ;
+	margin-top: 200px;
+	margin-left:250px;
+	margin-right:auto;
+}
+
+.button{
+	font-family: Courier New;
+	margin-top: 30px;
+	margin-left:550px;
+	margin-right:auto;
+	font-size: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: 
+	
+}
+
+.secondpage{
+	font-family: Lucida Console;
+	font-size: 80px;
+	color: ;
+	margin-top: 100px;
+	margin-left:300px;
+	margin-right:auto;
+}
+
+.button2{
+	font-family: Courier New;
+	margin-top:250px;
+	margin-left:20px;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-size: 20px;
+	background-color: 
+}
+
+.diceimg {
+	width:150px;
+	float: left;
+}
+
+
+.diceimg2 {
+	width:150px;
+	margin-right:330px;
+	margin-top:-2px;
+	float: right;
+}
+
+
+.p1{
+	margin-top: 100px;
+	margin-left:400px;
+	margin-right:auto;
+}
+
+.p2{
+	margin-top: -50px;
+	margin-right:320px;
+	
+	float:right;
+}
+
+.player1wins{
+	font-family: Lucida Console;
+	font-size: 80px;
+	color: ;
+	margin-top: 100px;
+	margin-left:300px;
+	margin-right:auto;
+}
+
+.button3{
+	font-family: Courier New;
+	margin-left:50px;
+	margin-top:200px;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-size: 20px;
+}
+
+.p1wins{
+	margin-top: 100px;
+	margin-left:400px;
+	margin-right:auto;
+}
+
+.p2wins{
+	margin-top: -45px;
+	margin-left:900px;
+}
+
+.player2wins{
+	font-family: Lucida Console;
+	font-size: 80px;
+	color: ;
+	margin-top: 100px;
+	margin-left:300px;
+	margin-right:auto;
+}
+
+.button4{
+	font-family: Courier New;
+	margin-top:80px;
+	margin-left:600px;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-size: 20px;
+	background-color: 
+}
+
+.pp1wins{
+	margin-top: 100px;
+	margin-left:400px;
+	margin-right:auto;
+}
+
+.pp2wins{
+	margin-top: -45px;
+	margin-left:700px;
+	margin-right:20px;
+}
+
+.DRAWN{
+	font-family: Lucida Console;
+	font-size: 100px;
+	color: ;
+	margin-top: 100px;
+	margin-left:500px;
+	margin-right:auto;
+}
+
+.button5{
+	font-family: Courier New;
+	margin-top:250px;
+	margin-left:520px;
+	margin-right:auto;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-size: 20px;
+	background-color: 
+}
+
+.draw{
+	font-family: Lucida Console;
+	font-size: 80px;
+	color: ;
+	margin-top: 100px;
+	text-align:center;
+}
+
+.draw2{
+	margin-top: -45px;
+	margin-left:700px;
+	margin-right:20px;
+}
+
+
+
